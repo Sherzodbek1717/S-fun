@@ -1,0 +1,15 @@
+{
+  "messages": {
+    "start": "salom ",
+    "end": "Hayr"
+  },
+"question": {
+  "start": "nma hohlesiz?",
+  "end": "aniq hechnarsa keregmasmi?"
+  },
+  "answers": {
+    "start": "hechnarsa",
+    "end": "ha"
+  }
+
+}

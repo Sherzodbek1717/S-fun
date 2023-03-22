@@ -1,0 +1,15 @@
+{
+  "messages": {
+    "start": "Adrastvuyte ",
+    "end": "Poka"
+  },
+"question": {
+  "start": "Chego hotite?",
+  "end": "Toshno nichevo ne hotite?"
+  },
+  "answers": {
+    "start": "Nichevo",
+    "end": "Da"
+  }
+
+}
