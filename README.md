@@ -36,9 +36,9 @@ After you have successfully pushed your changes to the repository, they will be 
 
 ## codes 
 
-git clone https://github.com/Sherzodbek1717/S-fun.git
-git add <file/folder>
-git commit -m "Commit message describing changes made"
-git push
-git config --global user.name "Your GitHub username"
-git config --global user.email "Your GitHub email"
+#git clone https://github.com/Sherzodbek1717/S-fun.git
+#git add <file/folder>
+#git commit -m "Commit message describing changes made"
+#git push
+#git config --global user.name "Your GitHub username"
+#git config --global user.email "Your GitHub email"
